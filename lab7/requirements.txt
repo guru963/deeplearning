@@ -1,0 +1,8 @@
+# Requirements for the MNIST Autoencoder / VAE lab
+tensorflow>=2.16
+numpy<2.2
+matplotlib>=3.8
+scikit-image>=0.22
+scikit-learn>=1.4
+pandas>=2.1
+Pillow>=10.0
