@@ -1,0 +1,17 @@
+# Attention in ResNet50 lab (tf_flowers) - Experiments 8, 9
+# Versions for TensorFlow/Keras match those stated in the report (TF 2.21, Keras 3.13).
+# Other packages are unpinned minimums; adjust if your notebook imports differ.
+
+tensorflow>=2.21,<2.22
+keras>=3.13,<3.14
+tensorflow-datasets>=4.9
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+Pillow
+opencv-python-headless
+tqdm
+jupyter
